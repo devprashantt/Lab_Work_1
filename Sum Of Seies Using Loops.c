@@ -2,7 +2,7 @@
 int main()
 {
     int i,n,sum=0;
-    printf("UPTO WHICH NUMBER DO U WANT TO SUM-\n");
+    printf("UPTO WHICH NUMBER DO U WANT TO SUM UP-\n");
     scanf("%d",&n);
     for(i=1;i<=n;i++)
     {
